@@ -1,0 +1,6 @@
+.env
+.token_cache.json
+mail/
+.DS_Store
+__pycache__/
+*.pyc
